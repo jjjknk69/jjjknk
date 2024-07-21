@@ -1,0 +1,6 @@
+git clone https://github.com/username/repository.git
+cd repository
+cp /path/to/file.jpeg .
+git add file.jpeg
+git commit -m "Add image file"
+git push origin main
